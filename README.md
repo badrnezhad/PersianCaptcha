@@ -17,4 +17,7 @@ Mine :
                 'م', 'ظ', 'ط', 'ز', 'ر', 'ذ', 'د', 'و'
         };
 
-<img src="sample/ex1.png">
+<img src="images/ex1.png">
+
+Sample Of Usage :
+<img src="images/ex2.png">
